@@ -1,0 +1,58 @@
+body {
+    background-color: #121212;
+    color: #fff;
+}
+
+
+textarea {
+    min-height: 400px;
+    resize: vertical;
+    padding: 10px;
+    border-radius: 5px;
+    font-family: inherit;
+    background-color: #1e1e1e; 
+    color: #fff; 
+    border: 1px solid #444; 
+}
+
+.read {
+    background-color: #333; 
+    transition: background-color 0.3s ease;
+}
+
+.unread {
+    background-color: #222;
+    transition: background-color 0.3s ease;
+}
+
+.btn {
+    background-color: #444;
+    color: #fff;
+    border: none;
+}
+
+a {
+    color: #42a1f4;
+    text-decoration: none;
+}
+
+
+.form-group label {
+    color: #fff;
+}
+
+.form-control {
+    background-color: #1e1e1e; 
+    color: #fff;
+    border: 1px solid #444;
+}
+
+#compose-view {
+    background-color: #1e1e1e;
+    color: #fff;
+}
+
+.btn-primary {
+    background-color: #42a1f4; 
+    color: #fff;
+}
